@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LocationTracker</string>
+    <string name="gps_network_not_enabled">GPS not enabled</string>
+    <string name="open_location_settings">Open</string>
+    <string name="Cancel">Cancel</string>
+</resources>
